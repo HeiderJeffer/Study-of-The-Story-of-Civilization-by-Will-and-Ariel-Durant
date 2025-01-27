@@ -18,8 +18,7 @@ This project is a self-guided exploration of the 11-volume *Story of Civilizatio
 - [Yale University - History of Civilization Course](https://www.yale.edu/)
 
 #### Project Notes:
-- [Chapter 1 Summary](https://github.com/HeiderJeffer/StoryOfCivilization/blob/main/Chapter1.md)
-- [Volume 3 Analysis](https://github.com/HeiderJeffer/StoryOfCivilization/blob/main/Volume3Analysis.md)
+- [Chapter 1 Summary and Volume 3 Analysis by Heider Jeffer](https://github.com/HeiderJeffer/Study-of-The-Story-of-Civilization-by-Will-and-Ariel-Durant/blob/main/Project%20Notes.md)
 
 ---
 
